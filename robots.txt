@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+Sitemap: https://facial-evaluation.netlify.app/sitemap.xml
